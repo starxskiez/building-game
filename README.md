@@ -4,7 +4,7 @@
 
 
 * How to Play
-&nbsp
+
 
   - Moving Around
   - Placing Bricks and Blocks
@@ -14,27 +14,22 @@
 * What we're Working On
 * Bugs and Glitches
 * Contributers
-&nbsp
 
 ## How to Play
 
 ### Moving Around
 
 To move around in this game, you have to press the arrow keys or wasd. The arrow keys and wasd will move the square or cursor on your screen. Moving the cursor will allow you to place building blocks in different areas. 
-&nbsp
 
 ### Placing Bricks and Blocks
 
 You can place bricks and blocks by pressing the space key on your keyboard. By default, you will place a black brick, but you can change that. Read the next section to know how.
-&nbsp
 
 ### Changing Block Colors
 
 You can change the color of a brick or block by pressing numbers 0-9. 1 is pink, 2 is firebrick, 3 is orange, 4 is gold, 5 is forest green, 6 is steel blue, 7 is dark slate blue, 8 is brown, 9 is black, and 0 is white. If you want to suggest more colors we can use, run the program and type no in the "need help" prompt. Then use [this website](https://matplotlib.org/stable/gallery/color/named_colors.html) to find all the availible python color options. 
  
-&nbsp
 ![House](https://user-images.githubusercontent.com/67660291/110988686-b9d98100-8325-11eb-9e2c-851b9fe2c24f.png)
-&nbsp
 
 ## What we're Working On
 
@@ -48,7 +43,6 @@ You can change the color of a brick or block by pressing numbers 0-9. 1 is pink,
 - [x] How to Play (in console).
 - [ ] Fixing Bugs and Glitches .
 - [ ] Creating Console Commands and More Interactivity. 
-&nbsp
 
 ## Bugs and Glitches
 
@@ -58,7 +52,6 @@ Here is a list of some bugs that are not fixed yet:
 * If you hold space, the cursor might draw randomly or draw a line not supposed to be there.
 
 If there are any other bugs you spot, please tell [@lexili](https://replit.com/@lexili) or [@MiracleMv](https://replit.com/@MiracleMv).
-&nbsp
 
 ## Contributers
 
@@ -66,7 +59,6 @@ Thanks to [@lexili](https://replit.com/@lexili) for making the turtle screen, th
 
 Thanks to [@MiracleMv](https://replit.com/@MiracleMv) for making the majority of the grid, the bricks and more.
 
-&nbsp
 
 [@MiracleMv](https://replit.com/@MiracleMv) | [@lexili](https://replit.com/@lexili)
 ------------ | -------------
